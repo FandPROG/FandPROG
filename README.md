@@ -7,4 +7,4 @@ ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FandPROG&show_icons=true&theme=dark)
 ___
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2_j)](https://solved.ac/2_j/)
-<img src="http://mazandi.herokuapp.com/api?handle={2_j}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={2_j}&theme=warm)
